@@ -34,8 +34,8 @@ I'm a passionate **DevOps Engineer** focused on building scalable, reliable, and
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]  
-- Twitter: [Your Twitter URL]  
+- LinkedIn:  www.linkedin.com/in/anurag-patil-0b0562375
+ 
 
 ---
 
