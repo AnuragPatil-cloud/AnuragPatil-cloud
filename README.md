@@ -7,13 +7,27 @@
  </abc>
 </h2> 
 
-<h2 align="left">🛠️ Technologies and Tools I work with:</h2>
-<p align="left">
-    <!-- Core Infrastructure -->
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+## 🛠️ Tools & Technologies
+
+<table>
+<tr>
+<td align="center"><b>Linux</b><br><img src="https://skillicons.dev/icons?i=linux" width="60"></td>
+<td align="center"><b>Terraform</b><br><img src="https://skillicons.dev/icons?i=terraform" width="60"></td>
+<td align="center"><b>Jenkins</b><br><img src="https://skillicons.dev/icons?i=jenkins" width="60"></td>
+<td align="center"><b>Kubernetes</b><br><img src="https://skillicons.dev/icons?i=kubernetes" width="60"></td>
+<td align="center"><b>Ansible</b><br><img src="https://skillicons.dev/icons?i=ansible" width="60"></td>
+<td align="center"><b>Ubuntu</b><br><img src="https://skillicons.dev/icons?i=ubuntu" width="60"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Git</b><br><img src="https://skillicons.dev/icons?i=git" width="60"></td>
+<td align="center"><b>Docker</b><br><img src="https://skillicons.dev/icons?i=docker" width="60"></td>
+<td align="center"><b>GitHub</b><br><img src="https://skillicons.dev/icons?i=github" width="60"></td>
+<td align="center"><b>VS Code</b><br><img src="https://skillicons.dev/icons?i=vscode" width="60"></td>
+<td align="center"><b>AWS</b><br><img src="https://skillicons.dev/icons?i=aws" width="60"></td>
+</tr>
+</table>
+
 
     <!-- Cloud -->
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
