@@ -40,22 +40,13 @@
 <tr>
 <td align="center"><b>MongoDB</b><br><img src="https://skillicons.dev/icons?i=mongodb" width="60"></td>
 <td align="center"><b>Nginx</b><br><img src="https://skillicons.dev/icons?i=nginx" width="60"></td>
-<td align="center"><b>Apache</b><br><img src="https://skillicons.dev/icons?i=apache" width="60"></td>
 <td align="center"><b>SonarQube</b><br><img src="https://skillicons.dev/icons?i=sonarqube" width="60"></td>
 <td align="center"><b>ArgoCD</b><br><img src="https://skillicons.dev/icons?i=argocd" width="60"></td>
 <td align="center"><b>Jira</b><br><img src="https://skillicons.dev/icons?i=jira" width="60"></td>
+<td align="center"><b>Shell Scripting</b><br><img src="https://skillicons.dev/icons?i=bash" width="60"></td>
 </tr>
 </table>
-</tr>
 
-<tr>
-<td align="center"><b>Git</b><br><img src="https://skillicons.dev/icons?i=git" width="60"></td>
-<td align="center"><b>Docker</b><br><img src="https://skillicons.dev/icons?i=docker" width="60"></td>
-<td align="center"><b>GitHub</b><br><img src="https://skillicons.dev/icons?i=github" width="60"></td>
-<td align="center"><b>VS Code</b><br><img src="https://skillicons.dev/icons?i=vscode" width="60"></td>
-<td align="center"><b>AWS</b><br><img src="https://skillicons.dev/icons?i=aws" width="60"></td>
-</tr>
-</table>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
