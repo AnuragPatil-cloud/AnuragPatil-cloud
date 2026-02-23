@@ -28,15 +28,17 @@
 </tr>
 </table>
 
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :cloud: DevOps & Cloud Engineer passionate about automation and scalability  
-- :whale: Love working on **Docker, Kubernetes & Infrastructure as Code**  
-- :rocket: Exploring **Cloud-Native & Site Reliability Engineering (SRE)** practices  
-- :zap: Advocate for CI/CD, Observability & Systems Reliability  
-- :dart: Life Motto: *"Automate everything, monitor always, scale forever"*  
-- :trophy: Built and deployed large-scale infrastructure on AWS, Azure & GCP  
+- ☁️ Results-driven DevOps & Cloud Engineer with hands-on experience in designing, automating, and scaling cloud infrastructure  
+- 🚀 Specialized in Docker, Kubernetes, and Infrastructure as Code (Terraform) to deliver reliable, production-grade environments  
+- 🔁 Strong advocate of CI/CD practices — building secure, automated pipelines using Jenkins & GitHub Actions  
+- 📊 Focused on Observability & Reliability — implementing monitoring solutions with Prometheus & Grafana  
+- 🌍 Experienced in deploying and managing large-scale infrastructure across AWS, Azure & GCP  
+- 🛠️ Passionate about optimizing system performance, reducing downtime, and improving deployment efficiency  
+- 🎯 Committed to continuous learning and adopting Cloud-Native & SRE best practices  
+
+✨ Motto: *"Automate smartly, monitor proactively, scale efficiently."* 
 
 <h2 align="left">:heart: Let's connect:</h2>
 
