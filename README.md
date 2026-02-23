@@ -12,11 +12,40 @@
 <table>
 <tr>
 <td align="center"><b>Linux</b><br><img src="https://skillicons.dev/icons?i=linux" width="60"></td>
-<td align="center"><b>Terraform</b><br><img src="https://skillicons.dev/icons?i=terraform" width="60"></td>
-<td align="center"><b>Jenkins</b><br><img src="https://skillicons.dev/icons?i=jenkins" width="60"></td>
-<td align="center"><b>Kubernetes</b><br><img src="https://skillicons.dev/icons?i=kubernetes" width="60"></td>
-<td align="center"><b>Ansible</b><br><img src="https://skillicons.dev/icons?i=ansible" width="60"></td>
 <td align="center"><b>Ubuntu</b><br><img src="https://skillicons.dev/icons?i=ubuntu" width="60"></td>
+<td align="center"><b>Bash</b><br><img src="https://skillicons.dev/icons?i=bash" width="60"></td>
+<td align="center"><b>Git</b><br><img src="https://skillicons.dev/icons?i=git" width="60"></td>
+<td align="center"><b>GitHub</b><br><img src="https://skillicons.dev/icons?i=github" width="60"></td>
+<td align="center"><b>Docker</b><br><img src="https://skillicons.dev/icons?i=docker" width="60"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Kubernetes</b><br><img src="https://skillicons.dev/icons?i=kubernetes" width="60"></td>
+<td align="center"><b>Helm</b><br><img src="https://skillicons.dev/icons?i=helm" width="60"></td>
+<td align="center"><b>Terraform</b><br><img src="https://skillicons.dev/icons?i=terraform" width="60"></td>
+<td align="center"><b>Ansible</b><br><img src="https://skillicons.dev/icons?i=ansible" width="60"></td>
+<td align="center"><b>Jenkins</b><br><img src="https://skillicons.dev/icons?i=jenkins" width="60"></td>
+<td align="center"><b>GitHub Actions</b><br><img src="https://skillicons.dev/icons?i=githubactions" width="60"></td>
+</tr>
+
+<tr>
+<td align="center"><b>AWS</b><br><img src="https://skillicons.dev/icons?i=aws" width="60"></td>
+<td align="center"><b>Azure</b><br><img src="https://skillicons.dev/icons?i=azure" width="60"></td>
+<td align="center"><b>GCP</b><br><img src="https://skillicons.dev/icons?i=gcp" width="60"></td>
+<td align="center"><b>Prometheus</b><br><img src="https://skillicons.dev/icons?i=prometheus" width="60"></td>
+<td align="center"><b>Grafana</b><br><img src="https://skillicons.dev/icons?i=grafana" width="60"></td>
+<td align="center"><b>MySQL</b><br><img src="https://skillicons.dev/icons?i=mysql" width="60"></td>
+</tr>
+
+<tr>
+<td align="center"><b>MongoDB</b><br><img src="https://skillicons.dev/icons?i=mongodb" width="60"></td>
+<td align="center"><b>Nginx</b><br><img src="https://skillicons.dev/icons?i=nginx" width="60"></td>
+<td align="center"><b>Apache</b><br><img src="https://skillicons.dev/icons?i=apache" width="60"></td>
+<td align="center"><b>SonarQube</b><br><img src="https://skillicons.dev/icons?i=sonarqube" width="60"></td>
+<td align="center"><b>ArgoCD</b><br><img src="https://skillicons.dev/icons?i=argocd" width="60"></td>
+<td align="center"><b>Jira</b><br><img src="https://skillicons.dev/icons?i=jira" width="60"></td>
+</tr>
+</table>
 </tr>
 
 <tr>
