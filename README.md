@@ -40,8 +40,7 @@
 
 <h2 align="left">:heart: Let's connect:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile) 
-[![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle) 
-[![GitHub Badge](https://img.shields.io/badge/-yourgithub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithub)](https://github.com/yourgithub) 
-[![Portfolio Badge](https://img.shields.io/badge/-yourportfolio.com-orange?style=flat-square&logo=appveyor&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](www.linkedin.com/in/anurag-patil-30488239b) 
+[![GitHub Badge](https://img.shields.io/badge/-yourgithub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourgithub)](https://github.com/AnuragPatil-cloud) 
+
 
