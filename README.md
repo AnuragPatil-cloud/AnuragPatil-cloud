@@ -42,7 +42,7 @@
 <td align="center"><b>Nginx</b><br><img src="https://skillicons.dev/icons?i=nginx" width="60"></td>
 <td align="center"><b>SonarQube</b><br><img src="https://skillicons.dev/icons?i=sonarqube" width="60"></td>
 <td align="center"><b>ArgoCD</b><br><img src="https://skillicons.dev/icons?i=argocd" width="60"></td>
-<td align="center"><b>Jira</b><br><img src="https://skillicons.dev/icons?i=jira" width="60"></td>
+<td align="center"><b>Jira</b><br><img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="60"></td>
 <td align="center"><b>Shell Scripting</b><br><img src="https://skillicons.dev/icons?i=bash" width="60"></td>
 </tr>
 </table>
