@@ -21,7 +21,7 @@
 
 <tr>
 <td align="center"><b>Kubernetes</b><br><img src="https://skillicons.dev/icons?i=kubernetes" width="60"></td>
-<td align="center"><b>Helm</b><br><img src="https://skillicons.dev/icons?i=helm" width="60"></td>
+<td align="center"><b>Helm</b><br><img src="https://helm.sh/img/helm.svg" width="60">></td>
 <td align="center"><b>Terraform</b><br><img src="https://skillicons.dev/icons?i=terraform" width="60"></td>
 <td align="center"><b>Ansible</b><br><img src="https://skillicons.dev/icons?i=ansible" width="60"></td>
 <td align="center"><b>Jenkins</b><br><img src="https://skillicons.dev/icons?i=jenkins" width="60"></td>
