@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Anurag Patil, DevOps Engineer :cloud:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="DevOps GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="DevOps GIF" width="500"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhnNTJ5ZjNybHhmbTUzMGptYnpjcWpzYWpoM3Y3MjE3M3NnbW03eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"width="500">
  </abc>
 </h2> 
 
