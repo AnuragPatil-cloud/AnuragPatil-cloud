@@ -70,4 +70,24 @@
     <a href="mailto:patilanurag1703@gmail.com"><img alt="instagram" width="6%" style="padding:5px" style="margin:15px;"src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
+<p align="center">
+
+<a href="https://github.com/AnuragPatil-cloud" style="margin:15px;">
+<img alt="github" width="10%" src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUE_NAME/" style="margin:15px;">
+<img alt="linkedin" width="10%" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/imakash3011/" style="margin:15px;">
+<img alt="instagram" width="10%" src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:patilanurag1703@gmail.com" style="margin:15px;">
+<img alt="gmail" width="10%" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
 
