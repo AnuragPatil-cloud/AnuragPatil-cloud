@@ -63,40 +63,12 @@
 <h2 align="left">:heart: Let's connect:</h2>
 
 <p align="center">
-	<a href="https://github.com/AnuragPatil-cloud"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/YOME_NAME/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/YOUR_NAME/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/YOUR_PROF/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/AnuragPatil-cloud"><img src="https://skillicons.dev/icons?i=github" width="60"></a>
+	<a href="https://www.linkedin.com/in/YOME_NAME/"><img src="https://skillicons.dev/icons?i=linkedin" width="60"></a>
+	<a href="https://www.facebook.com/YOUR_NAME/"><img src="https://skillicons.dev/icons?i=facebook" width="60"></a>
+	<a href="https://www.instagram.com/YOUR_PROF/"><img src="https://skillicons.dev/icons?i=instagram" width="60"></a>
 	<a href="mailto:patilanurag1703@gmail.com">
-  <img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="60">
 </a>
 </p>
 
-<p align="center">
-
-<a href="https://github.com/AnuragPatil-cloud">
-<b>GitHub</b><br>
-<img src="https://skillicons.dev/icons?i=github" width="60">
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_NAME/">
-<b>LinkedIn</b><br>
-<img src="https://skillicons.dev/icons?i=linkedin" width="60">
-</a>
-
-<a href="https://www.facebook.com/YOUR_NAME/">
-<b>Facebook</b><br>
-<img src="https://skillicons.dev/icons?i=facebook" width="60">
-</a>
-
-<a href="https://www.instagram.com/YOUR_PROF/">
-<b>Instagram</b><br>
-<img src="https://skillicons.dev/icons?i=instagram" width="60">
-</a>
-
-<a href="mailto:patilanurag1703@gmail.com">
-<b>Gmail</b><br>
-<img src="https://skillicons.dev/icons?i=gmail" width="60">
-</a>
-
-</p>
