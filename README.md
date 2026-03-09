@@ -62,7 +62,7 @@
 
 <h2 align="left">:heart: Let's connect:</h2>
 
-[![(https://media.giphy.com/avatars/LinkedIn/ajFOa7zWYFyL/200h.jpg)](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/anurag-patil-30488239b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/anurag-patil-30488239b)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/AnuragPatil-cloud)
 [![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:patilanurag1703@gmail.com)
 
