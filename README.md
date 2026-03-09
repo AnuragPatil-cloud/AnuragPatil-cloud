@@ -63,7 +63,7 @@
 
 <h2 align="left">:heart: Let's connect:</h2>
 
-<p align="center">
+<p >
 	<a href="https://github.com/AnuragPatil-cloud"><img alt="github" width="6%" style="padding:5px" style="margin:15px;" src="https://skillicons.dev/icons?i=github"/></a>
 	<a href="https://www.linkedin.com/in/YOUE_NAME/"><img alt="linkedin" width="6%" style="padding:5px"style="margin:15px;" src="https://skillicons.dev/icons?i=linkedin"/></a>
 	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="6%" style="padding:5px" style="margin:15px;" src="https://skillicons.dev/icons?i=instagram"/></a>
