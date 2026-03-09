@@ -64,9 +64,14 @@
 
 <p align="center">
 	<a href="https://github.com/AnuragPatil-cloud"><img src="https://skillicons.dev/icons?i=github" width="60"></a>
+	
 	<a href="https://www.linkedin.com/in/YOME_NAME/"><img src="https://skillicons.dev/icons?i=linkedin" width="60"></a>
+	
 	<a href="https://www.facebook.com/YOUR_NAME/"><img src="https://skillicons.dev/icons?i=facebook" width="60"></a>
+	
 	<a href="https://www.instagram.com/YOUR_PROF/"><img src="https://skillicons.dev/icons?i=instagram" width="60"></a>
+	
 	<a href="mailto:patilanurag1703@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="60"></a>
+	
 </p>
 
