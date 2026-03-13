@@ -79,8 +79,8 @@
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:patilanurag1703@gmail.com">
-		<img alt="gmail" width="6%" src="https://skillicons.dev/icons?i=gmail"/>
-	</a>
+<a href="https://mail.google.com/mail/?view=cm&to=patilanurag1703@gmail.com">
+  <img alt="gmail" width="6%" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </p>
 
