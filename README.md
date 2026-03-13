@@ -61,16 +61,6 @@
 ✨ Motto: *"Automate smartly, monitor proactively, scale efficiently."* 
 ---
 
-<h2 align="left">:heart: Let's connect:</h2>
-
-<p align="center">
-	<a href="https://github.com/AnuragPatil-cloud"><img alt="github" width="6%"  style="margin:15px;" src="https://skillicons.dev/icons?i=github"/></a>
-	<a href="https://www.linkedin.com/in/YOUE_NAME/"><img alt="linkedin" width="6%" style="margin:15px;" src="https://skillicons.dev/icons?i=linkedin"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="6%"  style="margin:15px;" src="https://skillicons.dev/icons?i=instagram"/></a>
-    <a href="mailto:patilanurag1703@gmail.com"><img alt="instagram" width="6%"style="margin:15px;"src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-
-
 <h2 align="left">❤️ Let's connect:</h2>
 
 <p align="center">
@@ -79,12 +69,12 @@
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR_NAME/">
+<a href="https://www.linkedin.com/in/Anurag Patil/">
 		<img alt="linkedin" width="6%" src="https://skillicons.dev/icons?i=linkedin"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/imakash3011/">
+<a href="https://www.instagram.com/_i_am_anuragpatil_17/">
 		<img alt="instagram" width="6%" src="https://skillicons.dev/icons?i=instagram"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
