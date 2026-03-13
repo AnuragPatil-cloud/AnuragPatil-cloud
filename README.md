@@ -69,7 +69,7 @@
 	</a>
 	&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/Anurag Patil/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/anurag-patil-30488239b/">
 		<img alt="linkedin" width="6%" src="https://skillicons.dev/icons?i=linkedin"/>
 	</a>
 	&nbsp;&nbsp;&nbsp;
